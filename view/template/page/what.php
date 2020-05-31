@@ -90,7 +90,7 @@
 
       <p>For a user using LBRY at the service level, the magic of what the LBRY protocol does will be largely transparent, much as a typical internet user sees nothing of how HTTP works. Via a LBRY application, a user will be able to open a familiar interface to quickly and easily discover and purchase a piece of digital content published by anyone in the world.</p>
 
-      <p>However, such an application would not be possible without the LBRY the underlying layer, the LBRY protocol.</p>
+      <p>However, such an application would not be possible without the LBRY underlying layer, the LBRY protocol.</p>
 
       <h3>Layer 1: Protocol</h3>
       <p>While the protocol is one comprehensive set of rules, it is easier to understand as two parts.</p>
